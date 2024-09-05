@@ -31,7 +31,7 @@ def stop_motor():
 
 #Run motor at hardcoded speed for 15 seconds
 control_motor()
-time.sleep(15)
+time.sleep(15) #runs for 15 seconds
 stop_motor()
 
 #Deinitialize CAN bus
