@@ -1,2 +1,4 @@
 # Digital-Agriculture-Lab
-Independent Study, Farm_Ng_Amiga
+## Independent Study
+
+The following Repository contains the code, report and package files of teh Independent Study done in the DIgital Agriculture Lab. 
