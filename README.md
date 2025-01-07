@@ -12,4 +12,4 @@ The following Repository contains the code, report and package files of teh Inde
 3) code.py - It contains the circuit python code to send the CAN signals to the Myactuator servo motor. It is just a test code.
 
 ### Report: 
-   The report contains the complete details including steps, rocedures and reference files for the project and its implementation along with the final results.
+   The report contains the complete details including steps, procedures and reference files for the project and its implementation along with the final results.
