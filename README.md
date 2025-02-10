@@ -14,7 +14,7 @@ The following Repository contains the code, report and package files of the Inde
 4) [line_detection.ipynb](Rivulet_2.0/line_detection.ipynb) - The code file contains the filtering, clustering, detection and visualization of horizontal and diagonal trusses of the Center Pivot. It filters the area of interest and uses DBScan to cluster the points and runs RanSac on the inliers and get's the line equations and runs RANSAC again to detect the other diagonal on the outlier
 
 ### Report: 
-   The report contains the complete details including steps, procedures and reference files for the project and its implementation along with the final results.
+   The [report](Independent_Study_Report.pdf) contains the complete details including steps, procedures and reference files for the project and its implementation along with the final results.
 
 1. Media: 
    - The following Video [Field_test.mp4](Media/Field_Test.mp4) is the demonstration of the manual operation of the Rivulet robot via joystick on the Centre Pivot Irrigation system.
