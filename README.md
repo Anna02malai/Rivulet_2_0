@@ -18,6 +18,8 @@ The following Repository contains the code, report and package files of the Inde
 
 1. Media: 
    - The following Video [Field_test.mp4](Media/Field_Test.mp4) is the demonstration of the manual operation of the Rivulet robot via joystick on the Centre Pivot Irrigation system.
+   - The below images show the Rivulet Robot's environmental Field setup on the Center Pivot Irrigation System.
+      - ![Rivulet_bot_1](Media/Rivulet_Bot_img2.jpg) ![Rivulet_bot_2](Media/Rivulet_Bot_img4.jpg)
    - The Following Images are the results of mapping the environment and detecting the trusses of the centre pivot as explained before. 
       - The first image shows the Downsampled point cloud visualization of the center pivot irrigation system. 
          ![Downsampled_Center_Pivot](Media/Downsampled_Center_Pivot.png)
