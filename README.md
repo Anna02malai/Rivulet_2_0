@@ -78,15 +78,15 @@ The following **[Github Repository](https://github.com/Anna02malai/Rivulet_2_0)*
    - The Following Images are the results of mapping the environment and detecting the trusses of the centre pivot as explained before. 
       - The first image shows the Downsampled point cloud visualization of the center pivot irrigation system. 
       <div align="center">
-      - <img src= "Media/Downsampled_Center_Pivot.png" width="640" height="360">
+         <img src= "Media/Downsampled_Center_Pivot.png" width="640" height="360">
       </div>
 
       - The second image displays the final result after detection of trusses of the center pivot in the side view perspective of the center pivot. 
       <div align="center">
-      - <img src= "Media/Detected_trusses_CP_Side_view.png" width=auto height=auto>
+         <img src= "Media/Detected_trusses_CP_Side_view.png" width=auto height=auto>
       </div>
       
       - The third image displays the final result after detection of trusses of the center pivot in the front view perspective of the center pivot. 
       <div align="center">
-      - <img src= "Media/Detected_trusses_CP_Front_view.png" width=auto height=auto>
+         <img src= "Media/Detected_trusses_CP_Front_view.png" width=auto height=auto>
       </div>
