@@ -1,7 +1,40 @@
-# Digital-Agriculture-Lab
-## Independent Study
+<!-- #################################################################################################################################################################################### -->
 
-The following Repository contains the code, report and package files of the Independent Study done in the DIgital Agriculture Lab. 
+<style>
+
+ body {
+    text-align: justify;
+  }
+
+ img, video, table {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} 
+
+</style>
+
+<!-- #################################################################################################################################################################################### -->
+# Ag-Cypher Lab (UD) <img src="Media/UD_logo.jpg" width="25" height="25">
+## Rivulet_2.0 - Independent Study
+
+The following **[Github Repository](https://github.com/Anna02malai/Farm_ng_Amiga)** contains the description, code, report and package files of my Independent Study done in the Ag-Cypher Lab. 
+
+### Problem Statement:
+
+   To enable Autonomous navigation for the Gantry system Robots like Rivulet on the center pivot irrigation systems filled with obstacles (Truss Pockets). This enables the robot to autonomously navigate the pivot while indulging in other activities like data-collection/spraying and so on.
+
+### Description:
+
+   This is a research problem at its preliminary stage which involves a novel approach of navigating gantry system Robots (like Rivulet) in Centre pivot irrigation system using SLAM. Rivulet is a in-house robot developed by a team of 4 members for senior design at UD in Ag-Cypher Lab. THe idea is to further attach a custom built (3m radius sensor footprint) on the robot to collect data in a circular Centre pivot field while it is irrigating. This is a modular design which is very feasible for adding custom sprayers and other kinds of machinery and sensors for various agricultural purposes.
+
+   So the basic step was to make it fully functional and atuonomous in the centre pivot. \
+
+### Brief of my Work:
+
+   - Designed a control system and implemented a finite-state machine integrating motors, sensors, and actuators to teleoperate a mobile gantry system on a center-pivot irrigation rig using ROS framework.
+   - Integrated MID-360 LiDAR with Fast-LIO SLAM for 3D environmental mapping, obstacle detection (truss pockets), and localization to support autonomous navigation.
+   - Simulated motion planning for crop coverage using a 2-DOF arm model to generate preliminary results which were accepted by **USDA** for a **$150K** research grant.
 
 ### Code Files:
 
@@ -16,19 +49,19 @@ The following Repository contains the code, report and package files of the Inde
 ### Report: 
    The [report](Independent_Study_Report.pdf) contains the complete details including steps, procedures and reference files for the project and its implementation along with the final results.
 
-1. Media: 
-   - The following video demonstrates the manual operation of the Rivulet robot via joystick on the Centre Pivot Irrigation system:
-         
-         {% raw %}
-         <video width="640" height="360" controls>
-         <source src="Media/Field_Test.mp4" type="video/mp4">
+### Media: 
+   - The following Video [Field_test.mp4](Media/Field_Test.mp4) is the demonstration of the Teleoperation of the Rivulet robot via joystick on the Centre Pivot Irrigation system.
+            
+      <!-- {% raw %}  -->
+      <video width="640" height="360" controls>
+         <source src="Files/Field_Test.mp4" type="video/mp4">
          Your browser does not support the video tag.
-         </video>
-         {% endraw %}
+      </video>
+      <!-- {% endraw %} --> 
 
    - The below images show the Rivulet Robot's environmental Field setup on the Center Pivot Irrigation System.
-      - ![Rivulet_bot_1](Media/Rivulet_Bot_img2.jpg) <!-- <img src="Files/logo/Tce.png" width="25" height="25"> -->
-      - ![Rivulet_bot_3](Media/Rivulet_Bot_img3.png) 
+      - ![Rivulet_bot_1](Media/Rivulet_Bot_img2.jpg) 
+      - ![Rivulet_bot_3](Media/Rivulet_Bot_img3.png)
       - ![Rivulet_bot_2](Media/Rivulet_Bot_img4.png) 
 
    - The Following Images are the results of mapping the environment and detecting the trusses of the centre pivot as explained before. 
