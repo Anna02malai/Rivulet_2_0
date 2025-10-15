@@ -55,7 +55,7 @@ The following **[Github Repository](https://github.com/Anna02malai/Farm_ng_Amiga
       <!-- {% raw %}  -->
       <div align="center">
       <video width="640" height="360" controls>
-         <source src="Files/Field_Test.mp4" type="video/mp4">
+         <source src="Media/Field_Test.mp4" type="video/mp4">
          Your browser does not support the video tag.
       </video>
       </div>
@@ -64,9 +64,9 @@ The following **[Github Repository](https://github.com/Anna02malai/Farm_ng_Amiga
 
    - The below images show the Rivulet Robot's environmental Field setup on the Center Pivot Irrigation System.
       <div align="center">
-      - ![Rivulet_bot_1](Media/Rivulet_Bot_img2.jpg) 
+      - <img src= "Media/Rivulet_Bot_img2.jpg" width="640" height=360> 
       - ![Rivulet_bot_3](Media/Rivulet_Bot_img3.png)
-      - ![Rivulet_bot_2](Media/Rivulet_Bot_img4.png) 
+      - ![Rivulet_bot_2](Media/Rivulet_Bot_img4.png) cd ..
       </div>
 
    - The Following Images are the results of mapping the environment and detecting the trusses of the centre pivot as explained before. 
