@@ -64,15 +64,15 @@ The following **[Github Repository](https://github.com/Anna02malai/Rivulet_2_0)*
 
    - The below images show the Rivulet Robot's environmental Field setup on the Center Pivot Irrigation System.
       <div align="center">
-         <img src= "Media/Rivulet_Bot_img2.jpg" width="640" height="360">
+         <img src= "Media/Rivulet_Bot_img2.jpg" width=auto height=auto>
       </div>
 
       <div align="center">
-         <img src= "Media/Rivulet_Bot_img3.png" width="640" height="360">
+         <img src= "Media/Rivulet_Bot_img3.png" width=auto height=auto>
       </div>
 
       <div align="center">
-         <img src= "Media/Rivulet_Bot_img4.png" width="640" height="360">
+         <img src= "Media/Rivulet_Bot_img4.png" width=auto height=auto>
       </div>
 
    - The Following Images are the results of mapping the environment and detecting the trusses of the centre pivot as explained before. 
@@ -88,5 +88,5 @@ The following **[Github Repository](https://github.com/Anna02malai/Rivulet_2_0)*
       
       - The third image displays the final result after detection of trusses of the center pivot in the front view perspective of the center pivot. 
       <div align="center">
-      - <img src= "Media/Detected_trusses_CP_Front_view.png" width="640" height=360>
+      - <img src= "Media/Detected_trusses_CP_Front_view.png" width=auto height=auto>
       </div>
