@@ -64,23 +64,23 @@ The following **[Github Repository](https://github.com/Anna02malai/Farm_ng_Amiga
 
    - The below images show the Rivulet Robot's environmental Field setup on the Center Pivot Irrigation System.
       <div align="center">
-      - <img src= "Media/Rivulet_Bot_img2.jpg" width="640" height=360> 
-      - ![Rivulet_bot_3](Media/Rivulet_Bot_img3.png)
-      - ![Rivulet_bot_2](Media/Rivulet_Bot_img4.png) cd ..
+      - <img src= "Media/Rivulet_Bot_img2.jpg" width="640" height=360>
+      - <img src= "Media/Rivulet_Bot_img3.png" width="640" height=360>
+      - <img src= "Media/Rivulet_Bot_img4.png" width="640" height=360>
       </div>
 
    - The Following Images are the results of mapping the environment and detecting the trusses of the centre pivot as explained before. 
       - The first image shows the Downsampled point cloud visualization of the center pivot irrigation system. 
       <div align="center">
-         ![Downsampled_Center_Pivot](Media/Downsampled_Center_Pivot.png)
+      - <img src= "Media/Downsampled_Center_Pivot.png" width="640" height=360>
       </div>
 
       - The second image displays the final result after detection of trusses of the center pivot in the side view perspective of the center pivot. 
       <div align="center">
-         ![Center_pivot_Side_View](Media/Detected_trusses_CP_Side_view.png)
+      - <img src= "Media/Detected_trusses_CP_Side_view.png" width="640" height=360>
       </div>
       
       - The third image displays the final result after detection of trusses of the center pivot in the front view perspective of the center pivot. 
       <div align="center">
-         ![Center_pivot_Front_View](Media/Detected_trusses_CP_Front_view.png)
+      - <img src= "Media/Detected_trusses_CP_Front_view.png" width="640" height=360>
       </div>
