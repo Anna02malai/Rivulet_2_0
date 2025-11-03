@@ -15,10 +15,10 @@
 </style>
 
 <!-- #################################################################################################################################################################################### -->
-# Ag-Cypher Lab (UD) <img src="Media/UD_logo.jpg" width="25" height="25">
+# Ag-CyPhER Lab (UD) <img src="Media/UD_logo.jpg" width="25" height="25">
 ## Rivulet_2.0 - Independent Study
 
-The following **[Github Repository](https://github.com/Anna02malai/Rivulet_2_0)** contains the description, code, report and package files of my Independent Study done in the Ag-Cypher Lab. 
+The following **[Github Repository](https://github.com/Anna02malai/Rivulet_2_0)** contains the description, code, report and package files of my Independent Study done in the Ag-CyPhER Lab. 
 
 ### Problem Statement:
 
@@ -26,7 +26,7 @@ The following **[Github Repository](https://github.com/Anna02malai/Rivulet_2_0)*
 
 ### Description:
 
-   This is a research problem at its preliminary stage which involves a novel approach of navigating gantry system Robots (like Rivulet) in Centre pivot irrigation system using SLAM. Rivulet is a in-house robot developed by a team of 4 members for senior design at UD in Ag-Cypher Lab. THe idea is to further attach a custom built (3m radius sensor footprint) on the robot to collect data in a circular Centre pivot field while it is irrigating. This is a modular design which is very feasible for adding custom sprayers and other kinds of machinery and sensors for various agricultural purposes.
+   This is a research problem at its preliminary stage which involves a novel approach of navigating gantry system Robots (like Rivulet) in Centre pivot irrigation system using SLAM. Rivulet is a in-house robot developed by a team of 4 members for senior design at UD in Ag-CyPhER Lab. THe idea is to further attach a custom built (3m radius sensor footprint) on the robot to collect data in a circular Centre pivot field while it is irrigating. This is a modular design which is very feasible for adding custom sprayers and other kinds of machinery and sensors for various agricultural purposes.
 
    So the basic step was to make it fully functional and autonomous in the centre pivot.
 
